@@ -1,0 +1,2 @@
+best_val_acc,final_train_acc,final_train_loss,final_val_acc,final_val_loss,macro_precision,macro_recall,macro_f1
+"tensor(0.9952, device='cuda:0', dtype=torch.float64)",0.9961835796066152,0.009105993931130247,0.9896538002387585,0.03722852075323822,0.9945272022461715,0.9940979575709479,0.9942914350045859
